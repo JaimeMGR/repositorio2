@@ -1,9 +1,0 @@
-package org.example;
-
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Procesando");
-	  Salida.escribir();    
-      System.out.println("Fin del programa")
-    }
-}
